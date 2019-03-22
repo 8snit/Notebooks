@@ -1,4 +1,3 @@
 # Notebooks
 
-[pandas](http://beta.mybinder.org/v2/gh/8snit/Notebooks/conda_environment/v1.0?filepath=pandas.ipynb)
-[dask](http://beta.mybinder.org/v2/gh/8snit/Notebooks/conda_environment/v1.0?filepath=dask.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/8snit/Notebooks/master)
