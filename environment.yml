@@ -10,4 +10,16 @@ dependencies:
   - pandas
   - partd
   - bokeh
-  - dask
+  - dask  
+  - wheel
+  - requests
+  - click
+  - tifffile
+  - pillow
+  - python-dateutil
+  - utm
+  - shapely
+  - boto3
+  - botocore
+  - pyproj
+  - sentinelhub
