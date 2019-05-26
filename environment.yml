@@ -22,4 +22,5 @@ dependencies:
   - boto3
   - botocore
   - pyproj
-  - sentinelhub
+  - pip:
+    - sentinelhub
